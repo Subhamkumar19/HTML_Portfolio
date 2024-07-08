@@ -1,0 +1,39 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    text-emphasis: centre;
+    padding: 10px;
+    background-color: beige;
+}
+header img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-bottom: 3%;
+}
+section{
+    margin: 20px;
+
+}
+    .Projects{
+        width: 200px;
+       height: 200px;
+       border: 1px solid #ccc;
+       margin:30px;
+       display: inline-block;
+       text-align: center;
+       line-height: 200px;
+    }
+    h1,h2{
+        color: black;
+    }
+    #bio, #work{
+        background-color: burlywood;
+    }
+    body{
+        background-color: whitesmoke;
+        text-align: center;
+        padding: 10px;
+
+    }
